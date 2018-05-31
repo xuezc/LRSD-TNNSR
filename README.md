@@ -3,14 +3,11 @@ This provides an MATLAB code implementation for the paper "Low-rank and Sparse M
 
 The folder "LRSD-TNNSR" contains the codes for the following three sub-folders:-
 
-synthetic data: contains the experiments of the synthetic data
-you can run "demo.m" to achieve the result of an example.
+1. synthetic data: contains the experiments of the synthetic data, you can run "demo.m" to achieve the result of an example.
 
-face image shadow removal: contains the experiments of the face image shadow removal
-you can run "demo.m" to achieve the result of an example.
+2. face image shadow removal: contains the experiments of the face image shadow removal, you can run "demo.m" to achieve the result of an example.
 
-video background subtraction: contains the experiments of the video background subtraction
-you can run "demo.m" to achieve the result of an example.
+3. video background subtraction: contains the experiments of the video background subtraction, you can run "demo.m" to achieve the result of an example.
 
 References:
 Z. Xue, J. Dong, Y. Zhao, C. Liu, and R. Chellali,"Low-rank and Sparse Matrix Decomposition via the Truncated Nuclear Norm and a Sparse Regularizer,                                
